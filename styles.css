@@ -26,7 +26,6 @@ svg { display: block; }
 .skip-link:focus { transform: translateY(0); }
 .site-header { min-height: 104px; display: flex; align-items: center; justify-content: space-between; gap: 24px; border-bottom: 1px solid var(--line); }
 .wordmark { display: inline-flex; align-items: center; font-size: 27px; letter-spacing: -1.1px; font-weight: 650; }
-.brand-mark { width: 30px; height: 30px; margin-right: 11px; color: var(--green); }
 .wordmark-light { font-weight: 400; margin-left: 5px; }
 .brand-period, .accent { color: var(--accent); }
 .purpose-link { display: inline-flex; align-items: center; gap: 24px; padding: 12px 0; font-size: 12px; }
@@ -52,7 +51,6 @@ h1 { display: flex; align-items: baseline; justify-content: center; gap: .13em; 
 @media (max-width: 600px) {
   .site-header { min-height: 86px; gap: 16px; }
   .wordmark { font-size: 23px; }
-  .brand-mark { width: 25px; height: 25px; margin-right: 8px; }
   .purpose-link { gap: 12px; font-size: 11px; }
   .hero { padding: 72px 0 64px; }
   .hero .eyebrow { font-size: 8px; margin-bottom: 28px; }

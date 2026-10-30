@@ -1,6 +1,6 @@
 # Datux Labs
 
-A minimal, editorial landing page built around the origin of the Datux name: data + UX. A short purpose statement introduces the parent company and its AI-orchestrated approach to better user experiences.
+A minimal, editorial landing page built around the origin of the Datux name: data + UX. A short purpose statement introduces the parent company and its data-driven approach to continuously improving user experiences.
 
 ## Local preview
 
@@ -14,7 +14,7 @@ Open <http://127.0.0.1:8000>. Stop the server with `Ctrl+C`.
 
 ## Files
 
-- `index.html`: page content, metadata, navigation, and inline brand mark.
+- `index.html`: page content, metadata, and navigation.
 - `styles.css`: responsive layouts, visual styling, keyboard focus, and reduced-motion support.
 
 The page uses system fonts, native anchor navigation, and no JavaScript, remote assets, or tracking.
